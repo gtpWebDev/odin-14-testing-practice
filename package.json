@@ -1,0 +1,15 @@
+{
+  "name": "odin-14-testing-practice",
+  "version": "1.0.0",
+  "description": "Project Odin module from javascript section",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "author": "Glen Pearson",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
